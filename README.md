@@ -1,5 +1,5 @@
 # Equipos de primera división
 
-Boca
-River
+* Boca
+* River
 
